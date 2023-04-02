@@ -1,0 +1,11 @@
+2023-04-02 22:33:59.366166 - Initialized conversion of CBT198
+2023-04-02 22:33:59.442954 - Received CBT.V504.FILE198.PDS from FILE198.XMI 
+2023-04-02 22:33:59.445805 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE198.PDS, moved to PDS/$$$#DATE
+2023-04-02 22:33:59.446914 - Found @FILE198.txt (text/plain) in CBT.V504.FILE198.PDS, moved to PDS/@FILE198
+2023-04-02 22:33:59.448002 - Found CBTDOC.txt (text/plain) in CBT.V504.FILE198.PDS, moved to PDS/CBTDOC
+2023-04-02 22:33:59.448014 - Found CBTEX05.bin containing application/octet-stream, moved to PDS/CBTEX05
+2023-04-02 22:33:59.450156 - Found CBTEX05$.txt (text/plain) in CBT.V504.FILE198.PDS, moved to PDS/CBTEX05$
+2023-04-02 22:33:59.450168 - Found HASPEX05.bin containing application/octet-stream, moved to PDS/HASPEX05
+2023-04-02 22:33:59.452203 - Found HASPEX5.txt (text/plain) in CBT.V504.FILE198.PDS, moved to PDS/HASPEX5
+2023-04-02 22:33:59.453154 - Found HASP5DOC.txt (text/plain) in CBT.V504.FILE198.PDS, moved to PDS/HASP5DOC
+2023-04-02 22:33:59.454107 - Found LOADEXIT.txt (text/plain) in CBT.V504.FILE198.PDS, moved to PDS/LOADEXIT
