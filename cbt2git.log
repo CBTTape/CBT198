@@ -1,10 +1,10 @@
-2025-04-15 00:28:02.913152 - Received CBT.V508.FILE198.PDS from FILE198.XMI 
-2025-04-15 00:28:02.914933 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE198.PDS, moved to PDS/$$$#DATE
-2025-04-15 00:28:02.915200 - Found @FILE198.txt (text/plain) in CBT.V508.FILE198.PDS, moved to PDS/@FILE198
-2025-04-15 00:28:02.915469 - Found CBTDOC.txt (text/plain) in CBT.V508.FILE198.PDS, moved to PDS/CBTDOC
-2025-04-15 00:28:02.916114 - Found CBTEX05.bin (application/octet-stream) in CBT.V508.FILE198.PDS, moved to PDS/CBTEX05
-2025-04-15 00:28:02.916336 - Found CBTEX05$.txt (text/plain) in CBT.V508.FILE198.PDS, moved to PDS/CBTEX05$
-2025-04-15 00:28:02.917023 - Found HASPEX05.bin (application/octet-stream) in CBT.V508.FILE198.PDS, moved to PDS/HASPEX05
-2025-04-15 00:28:02.917745 - Found HASPEX5.txt (text/plain) in CBT.V508.FILE198.PDS, moved to PDS/HASPEX5
-2025-04-15 00:28:02.917972 - Found HASP5DOC.txt (text/plain) in CBT.V508.FILE198.PDS, moved to PDS/HASP5DOC
-2025-04-15 00:28:02.918753 - Found LOADEXIT.txt (text/plain) in CBT.V508.FILE198.PDS, moved to PDS/LOADEXIT
+2025-04-15 19:15:19.984298 - Received CBT.V508.FILE198.PDS from FILE198.XMI 
+2025-04-15 19:15:19.985642 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE198.PDS, moved to PDS/$$$#DATE
+2025-04-15 19:15:19.985710 - Found @FILE198.txt (text/plain) in CBT.V508.FILE198.PDS, moved to PDS/@FILE198
+2025-04-15 19:15:19.986050 - Found CBTDOC.txt (text/plain) in CBT.V508.FILE198.PDS, moved to PDS/CBTDOC
+2025-04-15 19:15:19.986617 - Found CBTEX05.bin (application/octet-stream) in CBT.V508.FILE198.PDS, moved to PDS/CBTEX05
+2025-04-15 19:15:19.986794 - Found CBTEX05$.txt (text/plain) in CBT.V508.FILE198.PDS, moved to PDS/CBTEX05$
+2025-04-15 19:15:19.987393 - Found HASPEX05.bin (application/octet-stream) in CBT.V508.FILE198.PDS, moved to PDS/HASPEX05
+2025-04-15 19:15:19.988077 - Found HASPEX5.txt (text/plain) in CBT.V508.FILE198.PDS, moved to PDS/HASPEX5
+2025-04-15 19:15:19.988252 - Found HASP5DOC.txt (text/plain) in CBT.V508.FILE198.PDS, moved to PDS/HASP5DOC
+2025-04-15 19:15:19.988948 - Found LOADEXIT.txt (text/plain) in CBT.V508.FILE198.PDS, moved to PDS/LOADEXIT
